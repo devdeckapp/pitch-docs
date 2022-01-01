@@ -22,3 +22,22 @@ DevDeck contará com uma área focada na resolução de dúvidas e problemas em 
 
 ### 5. A comunicação é o sucesso
 Nada de chatbots, tickets e emails que demorariam meses para serem respondidos (apesar de que teremos um email), na DevDeck a comunicação é crucial e para isso usaremos as melhores maneiras de resolver um problema, seja no Twitter, Discord e em último caso, Email. A comunicação é um dos pilares mais importantes para resolver qualquer problema e a maioria das plataformas falha miseravelmente nesse quesito.
+
+## • Quais são as funcionalidades núcleo da aplicação?
+### 1. Autenticação
+DevDeck contará com a praticidade de autenticação oferecida pelo [Firebase](https://firebase.google.com/) além de externamente poder ser opcionalmente conectado com Github, Twitter e Discord. É importante ressaltar que o DevDeck JAMAIS irá pedir permissões que envolvam controle das contas conectadas de nenhuma forma e tudo ocorrerá via read-only, além do mais será possível desfazer essas conexões a qualquer momento.
+
+### 2. Dashboard
+DevDeck terá um dashboard padrão que gerará visualmente seu ranking global em relação a outros usuários com base nas suas ações dentro da plataforma, em seu Twitter, servidores confiáveis em que você esteja conectado e Github. Ele também gerará missões de maneira ocasional promovento uma gamificação da plataforma e mais entretenimento para os usuários.
+
+### 3. Pesquisa de usuários
+Na aba de pesquisa de usuários será possível realizar uma pesquisa entre todos os usuários existentes, utilizando filtros referentes a ranking, localização (em caso de usuários que habilitaram essa informação), estado profissional atual (caso também habilitado) e outras variedades. Não gostamos muito da ideia de ocultar usuários, mesmo que tenham criado a conta hoje, por isso as pesquisas serão sempre pontuais e organizadas - além de terem sua proteção contra potencial spam e outras coisas inconvenientes, como NSFW, abusos verbais e outros problemas.
+
+### 4. Exposição de comunidades
+De tempos em tempos comunidades novas e relevantes relacionadas com a temática do DevDeck serão expostas desde que sigam os termos propostos pela aplicação (nada especial, apenas para manter a organização e a paz entre os usuários), essas comunidades ficarão expostas por um tempo em uma aba própria dependendo de seu desempenho e serão completamente apoiadas pela DevDeck. As comunidades podem estar em qualquer plataforma que a DevDeck utilize, como Discord, Twitter ou Github ou ter seu próprio site.
+
+## 5. Exposição de eventos e Hackathons
+Haverá uma área especial para promoção de eventos de todos os tipos que se relacionem com a temática da DevDeck, incluindo Hackathons, eventos relacionados à cultura Geek, encontros presenciais de comunidades e variedades.
+
+## 6. Exposição de parceiros/colaboradores/patrocinadores
+Possíveis patrocinadores, parceiros e colaboradores serão expostos em uma áreas especial além de receberem um destaque sutil na aplicação, nessa área será possível obter acesso a possíveis promoções externas, cursos, vagas de emprego parceiras, conteúdos relacionados, conhecer projetos de parceiros e colaboradores, obter informações para se tornar um desses três e conhecer mais sobre todos os envolvidos.
