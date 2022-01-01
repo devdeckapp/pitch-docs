@@ -41,3 +41,13 @@ Haverá uma área especial para promoção de eventos de todos os tipos que se r
 
 ### 6. Exposição de parceiros/colaboradores/patrocinadores
 Possíveis patrocinadores, parceiros e colaboradores serão expostos em uma áreas especial além de receberem um destaque sutil na aplicação, nessa área será possível obter acesso a possíveis promoções externas, cursos, vagas de emprego parceiras, conteúdos relacionados, conhecer projetos de parceiros e colaboradores, obter informações para se tornar um desses três e conhecer mais sobre todos os envolvidos.
+
+## • Quais são os custos envolvidos na aplicação, formas de pagamento e demais informações monetárias?
+### 1. Para usuários finais
+Nenhum. Para usuários finais a utilização do DevDeck será completamente gratuita e ilimitada.
+
+### 2. Para contratantes e tech recruiters
+A utilização para esses usuários será gratuita, porém serão disponibilizados planos especiais para o tracking dos melhores possíveis candidatos a partir de pesquisas especiais baseadas principalmente em ranking e skills (soft ou hard). O foco será comparativo a partir do potencial dos usuários pesquisados e só listará os usuários que explicitamente decidirem por estar disponíveis na aplicação.
+
+### 3. Para desenvolvedores
+Será disponinilizada uma API gratuita de testes que poderá ser acessada por desenvolvedores cadastrados na plataforma, também haverão planos pagos com mais possibilidades além de maior quantidade de requests por determinado período de tempo.
