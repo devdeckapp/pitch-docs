@@ -36,8 +36,8 @@ Na aba de pesquisa de usuários será possível realizar uma pesquisa entre todo
 ### 4. Exposição de comunidades
 De tempos em tempos comunidades novas e relevantes relacionadas com a temática do DevDeck serão expostas desde que sigam os termos propostos pela aplicação (nada especial, apenas para manter a organização e a paz entre os usuários), essas comunidades ficarão expostas por um tempo em uma aba própria dependendo de seu desempenho e serão completamente apoiadas pela DevDeck. As comunidades podem estar em qualquer plataforma que a DevDeck utilize, como Discord, Twitter ou Github ou ter seu próprio site.
 
-## 5. Exposição de eventos e Hackathons
+### 5. Exposição de eventos e Hackathons
 Haverá uma área especial para promoção de eventos de todos os tipos que se relacionem com a temática da DevDeck, incluindo Hackathons, eventos relacionados à cultura Geek, encontros presenciais de comunidades e variedades.
 
-## 6. Exposição de parceiros/colaboradores/patrocinadores
+### 6. Exposição de parceiros/colaboradores/patrocinadores
 Possíveis patrocinadores, parceiros e colaboradores serão expostos em uma áreas especial além de receberem um destaque sutil na aplicação, nessa área será possível obter acesso a possíveis promoções externas, cursos, vagas de emprego parceiras, conteúdos relacionados, conhecer projetos de parceiros e colaboradores, obter informações para se tornar um desses três e conhecer mais sobre todos os envolvidos.
