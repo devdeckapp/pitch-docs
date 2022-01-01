@@ -20,5 +20,5 @@ Com o advento do mundo atual a Web3 é algo que veio para trazer um mundo mais i
 ### 4. Open Source é o futuro
 DevDeck contará com uma área focada na resolução de dúvidas e problemas em grupo, o foco é trazer uma comunidade mais unida em termos de evolução e isso só acontecerá se houver um esforço coletivo para isso. A elitização do conhecimento é um problema grave que deverá ser combatido até o final e a DevDeck estará aqui para isso. É importante ressaltar que nenhuma rivalização tóxica será tolerada (como brigas infundadas entre idólatras de linguagens de programação ou frameworks específicos).
 
-### 5. O sucesso de um será o de todos
+### 5. A comunicação é o sucesso
 Nada de chatbots, tickets e emails que demorariam meses para serem respondidos (apesar de que teremos um email), na DevDeck a comunicação é crucial e para isso usaremos as melhores maneiras de resolver um problema, seja no Twitter, Discord e em último caso, Email. A comunicação é um dos pilares mais importantes para resolver qualquer problema e a maioria das plataformas falha miseravelmente nesse quesito.
