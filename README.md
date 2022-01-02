@@ -59,7 +59,7 @@ Haverá uma seção especial para o destaque de todos os patrocinadores, parceir
 ### 2. Planos para contratantes
 Planos para contratantes (empresas, equipes ou tech recruiters) com valor acessível para oferecer um suporte maior ao tracking de informações sobre os usuários, bem como ferramentas de análise e comparação de dados, trendings e verificação detalhada de potencial de crescimento.
 
-## 3. Monetização de API
+### 3. Monetização de API
 A api externa poderá ser monetizada com um valor simbólico para aumentar a carga de chamadas por token de acesso e oferecer informações mais detalhadas com relação aos usuários, comunidades, eventos, hackathons, métricas de contratação, métricas de desenvolvimento de potencial de usuários, colaboradores e parceiros.
 
 ## • Plano de execução da aplicação
