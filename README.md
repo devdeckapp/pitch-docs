@@ -52,4 +52,14 @@ A utilização para esses usuários será gratuita, porém serão disponibilizad
 ### 3. Para desenvolvedores
 Será disponinilizada uma API gratuita de testes que poderá ser acessada por desenvolvedores cadastrados na plataforma, também haverão planos pagos com mais possibilidades além de maior quantidade de requests por determinado período de tempo.
 
+## • Monetização da aplicação
+### 1. Anúncios, patrocinadores e colaboradores
+Haverá uma seção especial para o destaque de todos os patrocinadores, parceiros e colaboradores onde poderão existir cards específicos que levam a seus respectivos serviços, produtos ou objetos de divulgação. Isso inclui cupons de vendas e outros objetos virtuais ou físicos que podem ser monetizados. Poderão também serem exibidos anúncios não abusivos para complementar nesse quesito de monetização, obtendo-se assim uma receita baseada em acessos e/ou cliques, além de anúncios dedicados obtidos a partir de fontes externas.
+
+### 2. Planos para contratantes
+Planos para contratantes (empresas, equipes ou tech recruiters) com valor acessível para oferecer um suporte maior ao tracking de informações sobre os usuários, bem como ferramentas de análise e comparação de dados, trendings e verificação detalhada de potencial de crescimento.
+
+## 3. Monetização de API
+A api externa poderá ser monetizada com um valor simbólico para aumentar a carga de chamadas por token de acesso e oferecer informações mais detalhadas com relação aos usuários, comunidades, eventos, hackathons, métricas de contratação, métricas de desenvolvimento de potencial de usuários, colaboradores e parceiros.
+
 ## • Plano de execução da aplicação
