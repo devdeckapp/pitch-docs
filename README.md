@@ -65,10 +65,15 @@ A api externa poderá ser monetizada com um valor simbólico para aumentar a car
 ## • Plano de execução da aplicação
 A execução da aplicação se dará pelos seguintes passos:
 
-### Registro
+### 1. Registro
 O usuário irá se registrar informando seu e-mail, criando uma senha segura com no mínimo 8 caracteres e no máximo 120 caracteres e poderá prosseguir para a próxima parte, onde irá inserir seu username (login utilizado para entrar na conta, uma alternativa ao e-mail), telefone (opcional), nome de exibição (como será mostrado ao público), localização (opcional) e contas sociais (opcionais - integração com Discord, Github e Twitter).
 
 Um cadastro para usuário contratante (empresa, tech recruiter, etc...) terá as mesmas informações porém será separado e marcado explicitamente como contratante. Será possível alterar isso nos tipos de conta posteriormente.
 
-### Autenticação/Login
+### 2. Autenticação/Login
+
+<img src="https://i.imgur.com/QSl9uCh.png" width="65%">
+
 O usuário poderá realizar seu login com seu email ou username que será obrigatoriamente junto à sua senha, essa senha será transformada em um objeto SecureToken pelo front-end e enviada ao back-end. Caso tudo esteja ok a resposta retornada será um objeto com o AccessToken para realização de operações, um DateTime dizendo quando expirará e um objeto User (limitado) com informações básicas do usuário para exibição.
+
+### 3. Dashboard
