@@ -25,7 +25,7 @@ Nada de chatbots, tickets e emails que demorariam meses para serem respondidos (
 
 ## • Quais são as funcionalidades núcleo da aplicação?
 ### 1. Autenticação
-DevDeck contará com a praticidade de autenticação oferecida pelo [Firebase](https://firebase.google.com/) além de externamente poder ser opcionalmente conectado com Github, Twitter e Discord. É importante ressaltar que o DevDeck JAMAIS irá pedir permissões que envolvam controle das contas conectadas de nenhuma forma e tudo ocorrerá via read-only, além do mais será possível desfazer essas conexões a qualquer momento.
+DevDeck terá sistema de autenticação próprio além de externamente poder ser opcionalmente conectado com Github, Twitter e Discord. É importante ressaltar que o DevDeck JAMAIS irá pedir permissões que envolvam controle das contas conectadas de nenhuma forma e tudo ocorrerá via read-only, além do mais será possível desfazer essas conexões a qualquer momento.
 
 ### 2. Dashboard
 DevDeck terá um dashboard padrão que gerará visualmente seu ranking global em relação a outros usuários com base nas suas ações dentro da plataforma, em seu Twitter, servidores confiáveis em que você esteja conectado e Github. Ele também gerará missões de maneira ocasional promovento uma gamificação da plataforma e mais entretenimento para os usuários.
