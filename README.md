@@ -51,3 +51,5 @@ A utilização para esses usuários será gratuita, porém serão disponibilizad
 
 ### 3. Para desenvolvedores
 Será disponinilizada uma API gratuita de testes que poderá ser acessada por desenvolvedores cadastrados na plataforma, também haverão planos pagos com mais possibilidades além de maior quantidade de requests por determinado período de tempo.
+
+## • Plano de execução da aplicação
