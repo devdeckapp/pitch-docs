@@ -72,8 +72,10 @@ Um cadastro para usuário contratante (empresa, tech recruiter, etc...) terá as
 
 ### 2. Autenticação/Login
 
-<img src="https://i.imgur.com/QSl9uCh.png" width="65%">
+<img src="https://i.imgur.com/wrCmOdQ.png" width="65%">
 
-O usuário poderá realizar seu login com seu email ou username que será obrigatoriamente junto à sua senha, essa senha será transformada em um objeto SecureToken pelo front-end e enviada ao back-end. Caso tudo esteja ok a resposta retornada será um objeto com o AccessToken para realização de operações, um DateTime dizendo quando expirará e um objeto User (limitado) com informações básicas do usuário para exibição.
+O usuário poderá realizar seu login com seu email ou username que será obrigatoriamente junto à sua senha, essa senha será transformada em um objeto SecureToken pelo front-end e enviada ao back-end. Caso tudo esteja ok a resposta retornada será um objeto com o AccessToken para realização de operações, um DateTime dizendo quando expirará e um objeto User (limitado) com informações básicas do usuário para exibição. Existirão opções para salvar login (manter o nome de usuário gravado) e manter login (deixar a conta logada caso o usuário saia e volte para o aplicativo - opção marcada por padrão).
+
+Na tela de login também haverá uma opção para switch do tema da página (entre claro ou escuro), links para as redes sociais (Discord oficial ou Twitter oficial), botões para acessar os termos de uso e a política de privacidade. 
 
 ### 3. Dashboard
