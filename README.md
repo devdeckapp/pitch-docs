@@ -87,3 +87,4 @@ O usuário poderá realizar seu login com seu email ou username que será obriga
 Na tela de login também haverá uma opção para switch do tema da página (entre claro ou escuro), links para as redes sociais (Discord oficial ou Twitter oficial), botões para acessar os termos de uso e a política de privacidade. 
 
 ### 3. Dashboard
+Na tela de dashboard o usuário terá uma área de visualização das últimas notícias e atualizações do DevDeck. Logo abaixo ele terá informações detalhadas de seu ranking, junto com seus badges conquistados em uma div própria para isso. Haverá também um indicador de visualizações e nível de exposição do perfil. Ele também terá informações padrão do perfil como links sociais, informação de nick, localização e descrição/bio.
