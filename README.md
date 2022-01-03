@@ -66,6 +66,14 @@ A api externa poderá ser monetizada com um valor simbólico para aumentar a car
 A execução da aplicação se dará pelos seguintes passos:
 
 ### 1. Registro
+
+<details>
+<img src="https://i.imgur.com/L1GMK2V.png" width="65%">
+<img src="https://i.imgur.com/aH2e4oe.png" width="65%">
+<img src="https://i.imgur.com/saMRv5X.png" width="65%">
+<img src="https://i.imgur.com/lZfgy1Z.png" width="65%">
+</details>
+
 O usuário irá se registrar informando seu e-mail, criando uma senha segura com no mínimo 8 caracteres e no máximo 120 caracteres e poderá prosseguir para a próxima parte, onde irá inserir seu username (login utilizado para entrar na conta, uma alternativa ao e-mail), telefone (opcional), nome de exibição (como será mostrado ao público), localização (opcional) e contas sociais (opcionais - integração com Discord, Github e Twitter).
 
 Um cadastro para usuário contratante (empresa, tech recruiter, etc...) terá as mesmas informações porém será separado e marcado explicitamente como contratante. Será possível alterar isso nos tipos de conta posteriormente.
