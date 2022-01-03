@@ -91,3 +91,5 @@ Na tela de login também haverá uma opção para switch do tema da página (ent
 <img src="https://i.imgur.com/oXz5voG.png" width="65%">
 
 Na tela de dashboard o usuário terá uma área de visualização das últimas notícias e atualizações do DevDeck. Logo abaixo ele terá informações detalhadas de seu ranking, junto com seus badges conquistados em uma div própria para isso. Haverá também um indicador de visualizações e nível de exposição do perfil. Ele também terá informações padrão do perfil como links sociais, informação de nick, localização e descrição/bio.
+
+Contribuições são contadas em todas as redes sociais: Github, Twitter e Discord e são separadas por totais e anuais, o potencial de crescimento é decidido através de um algoritmo de análise que obtém a qualidade das contribuições (o mesmo que determina a letra de ranking do usuário). Os demais detalhes são exibidos em abas na parte de baixo da tela, como formação, redes sociais, habilidades etc... As demais opções de navegação (para outras telas) serão disponibilizadas na parte superior da tela.
