@@ -108,6 +108,6 @@ A pesquisa de usuários é simplificada e conta com duas abas diferentes: pesqui
 
 ### 6. Eventos/Pesquisa de Eventos
 
-<img src="https://i.imgur.com/AHhLvRY.png">
+<img src="https://i.imgur.com/AHhLvRY.png" width="65%">
 
 A pesquisa de eventos também é uma tela simplificada que listará a lista dos eventos com maior nível de visualizações, também poderá ser realizada uma pesquisa de eventos via filtros específicos e listagem em quantidades, onde 100 podem ser exibidos por vez para o usuário.
