@@ -107,3 +107,5 @@ A tela de mensagens é simplificada, tudo o que haverá nela é um sistema bási
 A pesquisa de usuários é simplificada e conta com duas abas diferentes: pesquisa simples e pesquisa avançada (com as mesmas funcionalidades citadas anteriormente). Os resultados são cards que levarão ao perfil do usuário alvo - tela que imita o dashboard com algumas limitações, como a falta de botões de controles e outras informações. A pesquisa será paginada e o usuário final poderá decidir quantas ocorrências serão exibidas por tela até um máximo de 100 (por vez).
 
 ### 6. Eventos/Pesquisa de Eventos
+
+A pesquisa de eventos 
