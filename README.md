@@ -132,4 +132,4 @@ Página com esquema de grade dinâmica para destacar principais comunidades regi
 
 ### 10. Tela de configurações
 
-<img src="https://i.imgur.com/bMbTMl1.png" width="65%">
+<img src="https://i.imgur.com/f4gd9L5.png" width="65%">
