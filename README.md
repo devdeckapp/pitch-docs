@@ -99,3 +99,7 @@ Contribuições são contadas em todas as redes sociais: Github, Twitter e Disco
 <img src="https://i.imgur.com/cW8piXo.png" width="65%">
 
 A tela de mensagens é simplificada, tudo o que haverá nela é um sistema básico para envio/recepção de mensagens. No corpo da mensagem será exibida a imagem de perfil do usuário e o conteúdo da mensagem. É possível editar ou apagar essa mensagem. Também é possível limpar completamente o histórico de mensagens via configurações.
+
+### 5. Pesquisa de Usuários
+
+<img src="https://i.imgur.com/cW8piXo.png" width="65%">
