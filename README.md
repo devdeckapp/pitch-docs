@@ -102,4 +102,6 @@ A tela de mensagens é simplificada, tudo o que haverá nela é um sistema bási
 
 ### 5. Pesquisa de Usuários
 
-<img src="https://i.imgur.com/a/W9LfsXg.png" width="65%">
+<img src="https://i.imgur.com/A4zEdCT.png" width="65%">
+
+A pesquisa de usuários é simplificada e conta com duas abas diferentes: pesquisa simples e pesquisa avançada (com as mesmas funcionalidades citadas anteriormente). Os resultados são cards que levarão ao perfil do usuário alvo - tela que imita o dashboard com algumas limitações, como a falta de botões de controles e outras informações.
