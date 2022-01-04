@@ -126,4 +126,6 @@ Página com esquema de grade dinâmica para destacar colaboradores/parceiros/pat
 
 ### 9. Página de comunidades
 
+<img src="https://i.imgur.com/bMbTMl1.png" width="65%">
+
 Página com esquema de grade dinâmica para destacar principais comunidades registradas na DevDeck e devidamente confirmadas.
