@@ -114,4 +114,6 @@ A pesquisa de eventos também é uma tela simplificada que listará a lista dos 
 
 ### 7. Hackathons/Pesquisa de Hackathons
 
+<img src="https://i.imgur.com/GhIGzhb.png" width="65%">
+
 Assim como os eventos, a pesquisa de hackathons irá apresentar o mesmo comportamento, porém terá uma zona separada pois os hackathons terão destaques e possíveis informações adicionais.
