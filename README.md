@@ -102,4 +102,4 @@ A tela de mensagens é simplificada, tudo o que haverá nela é um sistema bási
 
 ### 5. Pesquisa de Usuários
 
-<img src="https://i.imgur.com/cW8piXo.png" width="65%">
+<img src="https://i.imgur.com/a/W9LfsXg.png" width="65%">
