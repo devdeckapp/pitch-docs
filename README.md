@@ -136,4 +136,6 @@ Página com esquema de grade dinâmica para destacar principais comunidades regi
 
 ### 11. Loja
 
+<img src="https://i.imgur.com/61yUvib.png" width="65%">
+
 A loja é direcionada a todo tipo de produto que pode ser possivelmente comercializado pela DevDeck, atualmente estarão disponíveis os planos especiais para acesso extendido à API e planos para contratantes/tech recruiters.
