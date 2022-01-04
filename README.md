@@ -117,3 +117,9 @@ A pesquisa de eventos também é uma tela simplificada que listará a lista dos 
 <img src="https://i.imgur.com/GhIGzhb.png" width="65%">
 
 Assim como os eventos, a pesquisa de hackathons irá apresentar o mesmo comportamento, porém terá uma zona separada pois os hackathons terão destaques e possíveis informações adicionais.
+
+### 8. Página de colaboradores
+
+<img src="https://i.imgur.com/Bwabnsc.png" width="65%">
+
+Página com esquema de grade dinâmica para destacar colaboradores/parceiros/patrocinadores.
