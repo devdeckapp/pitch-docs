@@ -123,3 +123,7 @@ Assim como os eventos, a pesquisa de hackathons irá apresentar o mesmo comporta
 <img src="https://i.imgur.com/Bwabnsc.png" width="65%">
 
 Página com esquema de grade dinâmica para destacar colaboradores/parceiros/patrocinadores.
+
+### 9. Página de comunidades
+
+Página com esquema de grade dinâmica para destacar principais comunidades registradas na DevDeck e devidamente confirmadas.
