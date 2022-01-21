@@ -17,6 +17,8 @@ Atualmente a comunidade de desenvolvimento em geral está focada praticamente na
 ### 3. Apoio à Web3
 Com o advento do mundo atual a Web3 é algo que veio para trazer um mundo mais inclusivo à todos, visto isso a DevDeck apoiará integralmente a Web3 se dispondo a evoluir junto com ela e integrando o máximo de funcionalidades para oferecer uma experiência incrível e conectada. Existem planos para realização de transações baseadas em criptomoedas, salas seguras baseadas em blockchain e até mesmo uma ideia embrionária para uma criptomoeda descentralizada com o nome da DevDeck. Aprenderemos e desbravaremos juntos esse incrível mundo.
 
+Observação: É importante declarar que as soluções não vão incluir moedas geradas a partir de mineração e NFTs presentes em esquemas de pirâmide, DevDeck prezará por se manter neutra em relação a qualquer tipo de influência negativa que poderá ser emitida para qualquer pessoa de qualquer área.
+
 ### 4. Open Source é o futuro
 DevDeck contará com uma área focada na resolução de dúvidas e problemas em grupo, o foco é trazer uma comunidade mais unida em termos de evolução e isso só acontecerá se houver um esforço coletivo para isso. A elitização do conhecimento é um problema grave que deverá ser combatido até o final e a DevDeck estará aqui para isso. É importante ressaltar que nenhuma rivalização tóxica será tolerada (como brigas infundadas entre idólatras de linguagens de programação ou frameworks específicos).
 
