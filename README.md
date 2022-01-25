@@ -6,6 +6,7 @@ DevDeck é uma aplicação dedicada a unir a comunidade de desenvolvimento de so
 <br>
 
 ## • Quais são os problemas que a aplicação resolve?
+
 ### 1. O foco é o desenvolvedor
 Hoje em dia existem diversas aplicações que focam em conectar desenvolvedores e contratantes, porém na maioria (não citarei nomes neste artigo por motivos próprios) as formas de monetização são ruins e podem até mesmo prejudicar o usuário. É comum que os desenvolvedores se sintam estagnados ao utilizar essas ferramentas pois as mesmas costumam focar mais em usuários "VIP" ou que consumam alguma forma de divulgação ou plano pago próprio do serviço. Claramente existem pessoas persistentes que conseguem algo na grande batalha que são esses serviços, mas em geral os mesmos são limitados e têm uso dificultado. Existem até mesmo serviços que exigem uma avalanche de documentos e outros itens de regulação logo de cara e ameaçam bloquear as contas até que tudo seja resolvido.
 
@@ -15,7 +16,7 @@ Na DevDeck o foco será sempre o desenvolvedor e a qualidade do serviço é uma 
 Atualmente a comunidade de desenvolvimento em geral está focada praticamente nas plataformas Twitter e Discord, o DevDeck terá integração total com ambas a plataformas no que podemos chamar de "servidores confiáveis" ou "contas confirmadas", onde o nível de interação relacionada a desenvolvimento de software será um dos pontos a serem avaliados na conta que definirá o ranking dos usuários. Learning in public será uma das leis: é a maneira perfeita para avaliar o potencial dos usuários e trazer diversas oportunidades incríveis para as pessoas, os métodos profissionais antigos não são mais suficientes para encontrar ótimos desenvolvedores. A DevDeck também terá um servidor oficial para interação entre todos que quiserem entrar.
 
 ### 3. Apoio à Web3
-Com o advento do mundo atual a Web3 é algo que veio para trazer um mundo mais inclusivo à todos, visto isso a DevDeck apoiará integralmente a Web3 se dispondo a evoluir junto com ela e integrando o máximo de funcionalidades para oferecer uma experiência incrível e conectada.
+Com o advento do mundo atual a Web3 é algo que veio para trazer um mundo mais inclusivo à todos, visto isso a DevDeck apoiará integralmente a Web3 se dispondo a evoluir junto com ela e integrando o máximo de funcionalidades para oferecer uma experiência incrível e conectada. As tecnologias Web3 não são apenas o que se diz respeito ao mundo "crypto", a mesma significa descentralização de dados e liberdade de utilização do usuário, bem como implica na existência de Daos e grupos descentralizados.
 
 ### 4. Open Source é o futuro
 DevDeck contará com uma área focada na resolução de dúvidas e problemas em grupo, o foco é trazer uma comunidade mais unida em termos de evolução e isso só acontecerá se houver um esforço coletivo para isso. A elitização do conhecimento é um problema grave que deverá ser combatido até o final e a DevDeck estará aqui para isso. É importante ressaltar que nenhuma rivalização tóxica será tolerada.
